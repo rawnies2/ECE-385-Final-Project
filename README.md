@@ -1,9 +1,8 @@
 ﻿# ECE-385-Final-Project
 
-Welco
+Welcome!
 
 <img width="582" alt="Screenshot 2023-08-10 at 11 59 47 AM" src="https://github.com/rawnies2/ECE-385-Final-Project/assets/90225852/20aadea2-ec80-4dbe-add6-f6ac5016a526">
-me!
 
 <img width="581" alt="Screenshot 2023-08-10 at 11 59 58 AM" src="https://github.com/rawnies2/ECE-385-Final-Project/assets/90225852/8cf277e2-3370-4ca6-9e2c-932c95fc4484">
 
